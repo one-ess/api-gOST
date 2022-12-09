@@ -1,128 +1,23 @@
 [
   {
     "id": "1",
-    "artist": "El Huervo",
-    "track": "Rest",
-    "poster": "img/rest.jpg",
-    "mp3": "mp3/ElHuervo-Rest.mp3"
-  },
-  {
-    "id": "2",
-    "artist": "El Huervo",
-    "track": "Turf",
-    "poster": "img/turf.jpg",
-    "mp3": "mp3/ElHuervo-Turf.mp3"
-  },
-  {
-    "id": "3",
-    "artist": "LudoWic",
-    "track": "Breath of a Serpent",
-    "poster": "img/serpent.jpg",
-    "mp3": "mp3/LudoWic-BreathofaSerpent.mp3"
-  },
-  {
-    "id": "4",
     "artist": "LudoWic",
     "track": "Disturbed Lines",
     "poster": "img/dlines.jpg",
     "mp3": "mp3/LudoWic-DisturbedLines.mp3"
   },
   {
-    "id": "5",
+    "id": "2",
     "artist": "DJ Electrohead",
     "track": "Hit The Floor",
     "poster": "img/hitthefloor.jpg",
     "mp3": "mp3/DJElectrohead-HitTheFloor.mp3"
   },
   {
-    "id": "6",
-    "artist": "Daniel Deluxe",
-    "track": "Air",
-    "poster": "img/air.jpg",
-    "mp3": "mp3/DanielDeluxe-Air.mp3"
-  },
-  {
-    "id": "7",
-    "artist": "LudoWic",
-    "track": "Meat Grinder",
-    "poster": "img/ktzero.jpg",
-    "mp3": "mp3/LudoWic-MeatGrinder.mp3"
-  },
-  {
-    "id": "8",
+    "id": "3",
     "artist": "Spencer Baggett",
     "track": "Greater Things Await",
     "poster": "img/greaterthings.jpg",
     "mp3": "mp3/SpencerBaggett-GreaterThingsAwait.mp3"
-  },
-  {
-    "id": "9",
-    "artist": "Spencer Baggett",
-    "track": "An Unsightly Scene Part 2",
-    "poster": "img/ez2.jpg",
-    "mp3": "mp3/SpencerBaggett-AnUnsightlyScenePart2.mp3"
-  },
-  {
-    "id": "10",
-    "artist": "Marcin Przybylowicz",
-    "track": "Mystery Man",
-    "poster": "img/mysteryman.jpg",
-    "mp3": "mp3/MarcinPrzybylowicz-MysteryMan.mp3"
-  },
-  {
-    "id": "11",
-    "artist": "Yuka Kitamura",
-    "track": "Malenia, Blade of Miquella",
-    "poster": "img/malenia.jpg",
-    "mp3": "mp3/YukaKitamura-Malenia,BladeofMiquella.mp3"
-  },
-  {
-    "id": "12",
-    "artist": "RTPN",
-    "track": "Mute",
-    "poster": "img/rtpn.jpg",
-    "mp3": "mp3/RTPN-Mute.mp3"
-  },
-  {
-    "id": "13",
-    "artist": "RTPN",
-    "track": "Pulse",
-    "poster": "img/rtpn.jpg",
-    "mp3": "mp3/RTPN-Pulse.mp3"
-  },
-  {
-    "id": "14",
-    "artist": "Mediastudio",
-    "track": "Cathedral Fight",
-    "poster": "img/painkiller.jpg",
-    "mp3": "mp3/Mediastudio-CathedralFight.mp3"
-  },
-  {
-    "id": "15",
-    "artist": "Mediastudio",
-    "track": "Atrium & Military Base Fight",
-    "poster": "img/painkiller.jpg",
-    "mp3": "mp3/Mediastudio-Atrium&MilitaryBaseFight.mp3"
-  },
-  {
-    "id": "16",
-    "artist": "Mediastudio",
-    "track": "Town Fight",
-    "poster": "img/painkiller.jpg",
-    "mp3": "mp3/Mediastudio-TownFight.mp3"
-  },
-  {
-    "id": "17",
-    "artist": "Stuart Chatwood",
-    "track": "At War With Kaileena",
-    "poster": "img/popww.jpg",
-    "mp3": "mp3/StuartChatwood-AtWarWithKaileena.mp3"
-  },
-  {
-    "id": "18",
-    "artist": "Stuart Chatwood",
-    "track": "Struggle In The Library",
-    "poster": "img/popww.jpg",
-    "mp3": "mp3/StuartChatwood-StruggleInTheLibrary.mp3"
   }
 ]
