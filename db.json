@@ -2,22 +2,8 @@
   {
     "id": "1",
     "artist": "LudoWic",
-    "track": "Disturbed Lines",
-    "poster": "dlines.jpg",
-    "mp3": "mp3/LudoWic-DisturbedLines.mp3"
-  },
-  {
-    "id": "2",
-    "artist": "DJ Electrohead",
-    "track": "Hit The Floor",
-    "poster": "img/hitthefloor.jpg",
-    "mp3": "mp3/DJElectrohead-HitTheFloor.mp3"
-  },
-  {
-    "id": "3",
-    "artist": "Spencer Baggett",
-    "track": "Greater Things Await",
-    "poster": "img/greaterthings.jpg",
-    "mp3": "mp3/SpencerBaggett-GreaterThingsAwait.mp3"
+    "track": "Overdose",
+    "poster": "img/overdose.jpg",
+    "mp3": "mp3/LudoWic-Overdose.mp3"
   }
 ]
