@@ -16,7 +16,7 @@
   {
     "id": "3",
     "artist": "LudoWic",
-    "track": "Breath of a Serpent",
+    "track": "Breath Of A Serpent",
     "poster": "img/overdose.jpg",
     "mp3": "mp3/LudoWic-BreathOfASerpent.mp3"
   },
@@ -64,14 +64,14 @@
   },
   {
     "id": "10",
-    "artist": "MarcinPrzybylowicz",
+    "artist": "Marcin Przybylowicz",
     "track": "The Mandragora",
-    "poster": "img/mysteryman.jpg",
+    "poster": "img/bloodandwine.jpg",
     "mp3": "mp3/MarcinPrzybylowicz-TheMandragora.mp3"
   },
   {
     "id": "11",
-    "artist": "MarcinPrzybylowicz",
+    "artist": "Marcin Przybylowicz",
     "track": "Mystery Man",
     "poster": "img/mysteryman.jpg",
     "mp3": "mp3/MarcinPrzybylowicz-MysteryMan.mp3"
@@ -93,8 +93,92 @@
   {
     "id": "14",
     "artist": "Spencer Baggett",
-    "track": "Air",
+    "track": "An Unsightly Scene Part 2",
     "poster": "img/ez2.jpg",
     "mp3": "mp3/SpencerBaggett-AnUnsightlyScenePart2.mp3"
+  },
+  {
+    "id": "15",
+    "artist": "Astral Projection",
+    "track": "Flying Into a Star",
+    "poster": "img/astral.jpg",
+    "mp3": "mp3/AstralProjection-FlyingIntoaStar.mp3"
+  },
+  {
+    "id": "16",
+    "artist": "Lee Groves",
+    "track": "Winter Wonderland",
+    "poster": "img/carmageddon.jpg",
+    "mp3": "mp3/LeeGroves-WinterWonderland.mp3"
+  },
+  {
+    "id": "17",
+    "artist": "Marcin Przybylowicz",
+    "track": "Skellige ambient",
+    "poster": "img/witcher.jpg",
+    "mp3": "mp3/MarcinPrzybylowicz-SkelligeAmbient.mp3"
+  },
+  {
+    "id": "18",
+    "artist": "Marcin Przybylowicz",
+    "track": "Velen ambient",
+    "poster": "img/witcher.jpg",
+    "mp3": "mp3/MarcinPrzybylowicz-VelenAmbient.mp3"
+  },
+  {
+    "id": "19",
+    "artist": "Marcin Przybylowicz",
+    "track": "You-re... Immortal",
+    "poster": "img/witcher.jpg",
+    "mp3": "mp3/MarcinPrzybylowicz-You-re...Immortal.mp3"
+  },
+  {
+    "id": "20",
+    "artist": "Mediastudio",
+    "track": "Atrium & Military Base Fight",
+    "poster": "img/painkiller.jpg",
+    "mp3": "mp3/Mediastudio-Atrium&MilitaryBaseFight.mp3"
+  },
+  {
+    "id": "21",
+    "artist": "Mediastudio",
+    "track": "Cathedral Fight",
+    "poster": "img/painkiller.jpg",
+    "mp3": "mp3/Mediastudio-CathedralFight.mp3"
+  },
+  {
+    "id": "22",
+    "artist": "Stuart Chatwood",
+    "track": "At War With Kaileena",
+    "poster": "img/popww.jpg",
+    "mp3": "mp3/StuartChatwood-AtWarWithKaileena.mp3"
+  },
+  {
+    "id": "23",
+    "artist": "Stuart Chatwood",
+    "track": "Struggle In The Library",
+    "poster": "img/popww.jpg",
+    "mp3": "mp3/StuartChatwood-StruggleInTheLibrary.mp3"
+  },
+  {
+    "id": "24",
+    "artist": "Yuka Kitamura",
+    "track": "Corrupted Monk",
+    "poster": "img/sekiro.jpg",
+    "mp3": "mp3/YukaKitamura-CorruptedMonk.mp3"
+  },
+  {
+    "id": "25",
+    "artist": "Yuka Kitamura",
+    "track": "Malenia, Blade of Miquella",
+    "poster": "img/eldenring.jpg",
+    "mp3": "mp3/YukaKitamura-Malenia,BladeofMiquella.mp3"
+  },
+  {
+    "id": "26",
+    "artist": "Yuka Kitamura",
+    "track": "Sister Friede",
+    "poster": "img/ds3.jpg",
+    "mp3": "mp3/YukaKitamura-SisterFriede.mp3"
   }
 ]
