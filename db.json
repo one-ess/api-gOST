@@ -5,5 +5,96 @@
     "track": "Overdose",
     "poster": "img/overdose.jpg",
     "mp3": "mp3/LudoWic-Overdose.mp3"
+  },
+  {
+    "id": "2",
+    "artist": "LudoWic",
+    "track": "Meat Grinder",
+    "poster": "img/overdose.jpg",
+    "mp3": "mp3/LudoWic-MeatGrinder.mp3"
+  },
+  {
+    "id": "3",
+    "artist": "LudoWic",
+    "track": "Breath of a Serpent",
+    "poster": "img/overdose.jpg",
+    "mp3": "mp3/LudoWic-BreathOfASerpent.mp3"
+  },
+  {
+    "id": "4",
+    "artist": "LudoWic",
+    "track": "Disturbed Lines",
+    "poster": "img/overdose.jpg",
+    "mp3": "mp3/LudoWic-DisturbedLines.mp3"
+  },
+  {
+    "id": "5",
+    "artist": "LudoWic",
+    "track": "Third District",
+    "poster": "img/overdose.jpg",
+    "mp3": "mp3/LudoWic-ThirdDistrict.mp3"
+  },
+  {
+    "id": "6",
+    "artist": "DJ Electrohead",
+    "track": "Hit The Floor",
+    "poster": "img/overdose.jpg",
+    "mp3": "mp3/DJElectrohead-HitTheFloor.mp3"
+  },
+  {
+    "id": "7",
+    "artist": "El Huervo",
+    "track": "Rest",
+    "poster": "img/rest.jpg",
+    "mp3": "mp3/ElHuervo-Rest.mp3"
+  },
+  {
+    "id": "8",
+    "artist": "El Huervo",
+    "track": "Rust",
+    "poster": "img/rest.jpg",
+    "mp3": "mp3/ElHuervo-Rust.mp3"
+  },
+  {
+    "id": "9",
+    "artist": "El Huervo",
+    "track": "Turf",
+    "poster": "img/rest.jpg",
+    "mp3": "mp3/ElHuervo-Turf.mp3"
+  },
+  {
+    "id": "10",
+    "artist": "MarcinPrzybylowicz",
+    "track": "The Mandragora",
+    "poster": "img/mysteryman.jpg",
+    "mp3": "mp3/MarcinPrzybylowicz-TheMandragora.mp3"
+  },
+  {
+    "id": "11",
+    "artist": "MarcinPrzybylowicz",
+    "track": "Mystery Man",
+    "poster": "img/mysteryman.jpg",
+    "mp3": "mp3/MarcinPrzybylowicz-MysteryMan.mp3"
+  },
+  {
+    "id": "12",
+    "artist": "Daniel Deluxe",
+    "track": "Air",
+    "poster": "img/air.jpg",
+    "mp3": "mp3/DanielDeluxe-Air.mp3"
+  },
+  {
+    "id": "13",
+    "artist": "Spencer Baggett",
+    "track": "Greater Things Await",
+    "poster": "img/ez2.jpg",
+    "mp3": "mp3/SpencerBaggett-GreaterThingsAwait.mp3"
+  },
+  {
+    "id": "14",
+    "artist": "Spencer Baggett",
+    "track": "Air",
+    "poster": "img/ez2.jpg",
+    "mp3": "mp3/SpencerBaggett-AnUnsightlyScenePart2.mp3"
   }
 ]
