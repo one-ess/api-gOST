@@ -106,79 +106,51 @@
   },
   {
     "id": "16",
-    "artist": "Lee Groves",
-    "track": "Winter Wonderland",
-    "poster": "img/carmageddon.jpg",
-    "mp3": "mp3/LeeGroves-WinterWonderland.mp3"
-  },
-  {
-    "id": "17",
     "artist": "Marcin Przybylowicz",
     "track": "Skellige ambient",
     "poster": "img/witcher.jpg",
     "mp3": "mp3/MarcinPrzybylowicz-SkelligeAmbient.mp3"
   },
   {
-    "id": "18",
+    "id": "17",
     "artist": "Marcin Przybylowicz",
     "track": "Velen ambient",
     "poster": "img/witcher.jpg",
     "mp3": "mp3/MarcinPrzybylowicz-VelenAmbient.mp3"
   },
   {
-    "id": "19",
+    "id": "18",
     "artist": "Marcin Przybylowicz",
     "track": "You-re... Immortal",
     "poster": "img/witcher.jpg",
     "mp3": "mp3/MarcinPrzybylowicz-You-re...Immortal.mp3"
   },
   {
+    "id": "19",
+    "artist": "Mega Drive",
+    "track": "Acid Spit",
+    "poster": "img/megadrive.jpg",
+    "mp3": "mp3/MegaDrive-AcidSpit.mp3"
+  },
+  {
     "id": "20",
-    "artist": "Mediastudio",
-    "track": "Atrium & Military Base Fight",
-    "poster": "img/painkiller.jpg",
-    "mp3": "mp3/Mediastudio-Atrium&MilitaryBaseFight.mp3"
+    "artist": "Mega Drive",
+    "track": "NARC",
+    "poster": "img/megadrive.jpg",
+    "mp3": "mp3/MegaDrive-NARC.mp3"
   },
   {
     "id": "21",
-    "artist": "Mediastudio",
-    "track": "Cathedral Fight",
-    "poster": "img/painkiller.jpg",
-    "mp3": "mp3/Mediastudio-CathedralFight.mp3"
+    "artist": "LudoWic",
+    "track": "Chemical Brew",
+    "poster": "img/ktzero.jpg",
+    "mp3": "mp3/LudoWic-ChemicalBrew.mp3"
   },
   {
     "id": "22",
-    "artist": "Stuart Chatwood",
-    "track": "At War With Kaileena",
-    "poster": "img/popww.jpg",
-    "mp3": "mp3/StuartChatwood-AtWarWithKaileena.mp3"
-  },
-  {
-    "id": "23",
-    "artist": "Stuart Chatwood",
-    "track": "Struggle In The Library",
-    "poster": "img/popww.jpg",
-    "mp3": "mp3/StuartChatwood-StruggleInTheLibrary.mp3"
-  },
-  {
-    "id": "24",
-    "artist": "Yuka Kitamura",
-    "track": "Corrupted Monk",
-    "poster": "img/sekiro.jpg",
-    "mp3": "mp3/YukaKitamura-CorruptedMonk.mp3"
-  },
-  {
-    "id": "25",
-    "artist": "Yuka Kitamura",
-    "track": "Malenia, Blade of Miquella",
-    "poster": "img/eldenring.jpg",
-    "mp3": "mp3/YukaKitamura-Malenia,BladeofMiquella.mp3"
-  },
-  {
-    "id": "26",
-    "artist": "Yuka Kitamura",
-    "track": "Sister Friede",
-    "poster": "img/ds3.jpg",
-    "mp3": "mp3/YukaKitamura-SisterFriede.mp3"
+    "artist": "El Huervo",
+    "track": "Bones",
+    "poster": "img/rest.jpg",
+    "mp3": "mp3/ElHuervo-Bones.mp3"
   }
 ]
