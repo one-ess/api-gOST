@@ -64,93 +64,72 @@
   },
   {
     "id": "10",
-    "artist": "Marcin Przybylowicz",
-    "track": "The Mandragora",
-    "poster": "img/witcher.jpg",
-    "mp3": "mp3/MarcinPrzybylowicz-TheMandragora.mp3"
-  },
-  {
-    "id": "11",
-    "artist": "Marcin Przybylowicz",
-    "track": "Mystery Man",
-    "poster": "img/witcher.jpg",
-    "mp3": "mp3/MarcinPrzybylowicz-MysteryMan.mp3"
-  },
-  {
-    "id": "12",
     "artist": "Daniel Deluxe",
     "track": "Air",
     "poster": "img/air.jpg",
     "mp3": "mp3/DanielDeluxe-Air.mp3"
   },
   {
+    "id": "11",
+    "artist": "Perturbator",
+    "track": "Future Club",
+    "poster": "img/megadrive.jpg",
+    "mp3": "mp3/Perturbator-FutureClub.mp3"
+  },
+  {
+    "id": "12",
+    "artist": "LudoWic",
+    "track": "Katana Zero",
+    "poster": "img/ktzero.jpg",
+    "mp3": "mp3/LudoWic-KatanaZero.mp3"
+  },
+  {
     "id": "13",
-    "artist": "Spencer Baggett",
-    "track": "Greater Things Await",
-    "poster": "img/ez2.jpg",
-    "mp3": "mp3/SpencerBaggett-GreaterThingsAwait.mp3"
+    "artist": "Scattle",
+    "track": "Knock Knock",
+    "poster": "img/turf.jpg",
+    "mp3": "mp3/Scattle-KnockKnock.mp3"
   },
   {
     "id": "14",
-    "artist": "Spencer Baggett",
-    "track": "An Unsightly Scene Part 2",
-    "poster": "img/ez2.jpg",
-    "mp3": "mp3/SpencerBaggett-AnUnsightlyScenePart2.mp3"
-  },
-  {
-    "id": "15",
-    "artist": "Astral Projection",
-    "track": "Flying Into a Star",
-    "poster": "img/astral.jpg",
-    "mp3": "mp3/AstralProjection-FlyingIntoaStar.mp3"
-  },
-  {
-    "id": "16",
-    "artist": "Marcin Przybylowicz",
-    "track": "Skellige ambient",
-    "poster": "img/witcher.jpg",
-    "mp3": "mp3/MarcinPrzybylowicz-SkelligeAmbient.mp3"
-  },
-  {
-    "id": "17",
-    "artist": "Marcin Przybylowicz",
-    "track": "Velen ambient",
-    "poster": "img/witcher.jpg",
-    "mp3": "mp3/MarcinPrzybylowicz-VelenAmbient.mp3"
-  },
-  {
-    "id": "18",
-    "artist": "Marcin Przybylowicz",
-    "track": "You-re... Immortal",
-    "poster": "img/witcher.jpg",
-    "mp3": "mp3/MarcinPrzybylowicz-You-re...Immortal.mp3"
-  },
-  {
-    "id": "19",
     "artist": "Mega Drive",
     "track": "Acid Spit",
     "poster": "img/megadrive.jpg",
     "mp3": "mp3/MegaDrive-AcidSpit.mp3"
   },
   {
-    "id": "20",
+    "id": "15",
     "artist": "Mega Drive",
     "track": "NARC",
     "poster": "img/megadrive.jpg",
     "mp3": "mp3/MegaDrive-NARC.mp3"
   },
   {
-    "id": "21",
+    "id": "16",
     "artist": "LudoWic",
     "track": "Chemical Brew",
     "poster": "img/ktzero.jpg",
     "mp3": "mp3/LudoWic-ChemicalBrew.mp3"
   },
   {
-    "id": "22",
+    "id": "17",
     "artist": "El Huervo",
     "track": "Bones",
     "poster": "img/rest.jpg",
     "mp3": "mp3/ElHuervo-Bones.mp3"
+  },
+  {
+    "id": "18",
+    "artist": "BloodRayne 2",
+    "track": "Club Music 1",
+    "poster": "img/bloodrayne.jpg",
+    "mp3": "mp3/BloodRayne2-ClubMusic1.mp3"
+  },
+  {
+    "id": "19",
+    "artist": "BloodRayne 2",
+    "track": "Club Music 2",
+    "poster": "img/bloodrayne.jpg",
+    "mp3": "mp3/BloodRayne2-ClubMusic2.mp3"
   }
 ]
