@@ -59,7 +59,7 @@
     "id": "9",
     "artist": "El Huervo",
     "track": "Turf",
-    "poster": "img/turf.jpg",
+    "poster": "img/hm.jpg",
     "mp3": "mp3/ElHuervo-Turf.mp3"
   },
   {
@@ -87,7 +87,7 @@
     "id": "13",
     "artist": "Scattle",
     "track": "Knock Knock",
-    "poster": "img/turf.jpg",
+    "poster": "img/hm.jpg",
     "mp3": "mp3/Scattle-KnockKnock.mp3"
   },
   {
@@ -117,19 +117,5 @@
     "track": "Bones",
     "poster": "img/rest.jpg",
     "mp3": "mp3/ElHuervo-Bones.mp3"
-  },
-  {
-    "id": "18",
-    "artist": "BloodRayne 2",
-    "track": "Club Music 1",
-    "poster": "img/bloodrayne.jpg",
-    "mp3": "mp3/BloodRayne2-ClubMusic1.mp3"
-  },
-  {
-    "id": "19",
-    "artist": "BloodRayne 2",
-    "track": "Club Music 2",
-    "poster": "img/bloodrayne.jpg",
-    "mp3": "mp3/BloodRayne2-ClubMusic2.mp3"
   }
 ]
